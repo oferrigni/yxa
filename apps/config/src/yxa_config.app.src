@@ -1,0 +1,12 @@
+{application, yxa_config,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { yxa_config_app, []}},
+  {env, []}
+ ]}.
