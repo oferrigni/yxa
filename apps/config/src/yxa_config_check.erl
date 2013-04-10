@@ -27,8 +27,8 @@
 %%--------------------------------------------------------------------
 %% Include files
 %%--------------------------------------------------------------------
--include_lib("toolkit/include/yxa_config.hrl").
--include_lib("toolkit/include/siprecords.hrl").
+-include_lib("common_include/include/yxa_config.hrl").
+-include_lib("common_include/include/siprecords.hrl").
 
 %%====================================================================
 %% External functions
